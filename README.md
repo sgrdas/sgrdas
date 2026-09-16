@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm S G Ravidas 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:009688&height=180&section=header&text=S%20G%20Ravidas&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h3 align="center">Computer Science Engineer | AI/ML & Full-Stack Developer | Open to Software Developer Roles</h3>
+<h3 align="center">👋 Hi, I'm S G Ravidas</h3>
 
 <p align="center">
-I build practical software applications using Python, Java, AI/ML, web technologies, and databases. 
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+%26+Full-Stack+Developer;Open+to+Software+Developer+Roles;Building+with+Python%2C+Java+%26+Machine+Learning" alt="Typing SVG" />
+</p>
+
+<p align="center">
+I build practical software applications using Python, Java, AI/ML, web technologies, and databases.
 I'm a Computer Science graduate focused on building real-world projects and looking for entry-level software development opportunities.
 </p>
 
@@ -152,6 +158,24 @@ Software Development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="90%"/>
+</p>
+
+<!--
+This activity graph redraws as an animated area chart of your commits
+over time — it's a live image (like the stats cards above), so it just
+works once you swap in your username. No GitHub Action required.
+
+Other animated options if you want to layer more in later:
+- 3D contribution calendar: a rotating "skyline" built from your
+  contribution graph (needs a small GitHub Action)
+- WakaTime weekly coding-activity bar chart (needs a WakaTime account
+  + a GitHub Action)
+- Live "currently playing on Spotify" card (needs Spotify + a GitHub Action)
+Say the word on any of these and I'll wire it up.
+-->
+
 ---
 
 ### 📫 Reach Me
@@ -166,4 +190,8 @@ Software Development
 
 <p align="center">
   <b>Building projects. Learning every day. Growing into a better software developer. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:0077B5&height=100&section=footer" />
 </p>
