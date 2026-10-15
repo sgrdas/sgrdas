@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sgrdas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ravidassg250@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=009688&style=for-the-badge" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sgrdas&label=Profile%20Views&color=009688&style=for-the-badge" alt="Views"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
@@ -98,16 +98,16 @@ Dev Practices .. Git & GitHub | REST APIs | Testing | Deployment
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sgrdas&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgrdas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=sgrdas&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Activity graph"/>
+  <img width="100%" src="./generated/activity-graph.svg" alt="Contribution activity graph"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
