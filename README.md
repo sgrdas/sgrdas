@@ -20,7 +20,7 @@ I'm a Computer Science graduate focused on building real-world projects and look
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="ravidassg250@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -181,8 +181,8 @@ Say the word on any of these and I'll wire it up.
 ### 📫 Reach Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
+  <a href="https://www.linkedin.com/in/sgrdas/">LinkedIn</a> ·
+  <a href="mailto:ravidassg250@gmail.com">Email</a> ·
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
 </p>
 
