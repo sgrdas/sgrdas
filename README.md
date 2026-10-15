@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/hero-3d.svg" alt="S G Ravidas - animated 3D banner" width="100%"/>
+  <img src="./assets/hero-3d.svg" alt="S G Ravidas - animated 3D banner" width="100%"/>
 </p>
 
 <p align="center">
