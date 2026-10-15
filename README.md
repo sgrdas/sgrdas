@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:009688&height=180&section=header&text=S%20G%20Ravidas&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00BFA5&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI%2FML+and+Full-Stack+Developer;Explainable+AI+with+SHAP+and+LIME;Open+to+Entry-Level+Developer+Roles" alt="Typing SVG" />
+  <img src="./assets/hero-3d.svg" alt="S G Ravidas - animated 3D banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=009688&style=for-the-badge" alt="Views"/>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🖥️ ~/ravidas
 
@@ -34,15 +30,19 @@ ravidas@github:~$ cat status.json
 }
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🎓 Education
 
 **B.Tech / B.E. in Computer Science & Engineering** - KSSEM College, Bengaluru - CGPA **8.23**
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="./assets/skills-globe.svg" alt="Rotating 3D skill globe" width="100%"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
@@ -60,13 +60,13 @@ ravidas@github:~$ cat status.json
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🤖 AI / Machine Learning
 
 `Machine Learning` `Random Forest` `KNN` `Decision Trees` `K-Means` `PCA` `SHAP` `LIME` `Data Preprocessing` `Predictive Modeling`
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🚀 Featured Projects
 
@@ -76,13 +76,13 @@ ravidas@github:~$ cat status.json
 | `Python` `FastAPI` `React` `TypeScript` `SHAP` `LIME` | `Python` `Flask` `SQLite` `SQLAlchemy` `Chart.js` | `Python` `ML` `Flask` `SQLite` |
 | *Explainable AI, Healthcare Analytics* | *Job Analytics, Resume Analysis* | *Smart Agriculture, Cost Optimization* |
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🧪 Testing & Automation
 
 `Selenium WebDriver` `TestNG` `Maven` `Automated UI Testing` `Test Case Design` `Browser Automation`
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 📚 Currently Improving
 
@@ -93,7 +93,7 @@ SQL ............ Queries | Joins | Subqueries | Database Design
 Dev Practices .. Git & GitHub | REST APIs | Testing | Deployment
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 📊 GitHub Stats
 
@@ -110,7 +110,7 @@ Dev Practices .. Git & GitHub | REST APIs | Testing | Deployment
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Activity graph"/>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🌌 My Contribution Skyline
 
@@ -118,7 +118,7 @@ Dev Practices .. Git & GitHub | REST APIs | Testing | Deployment
   <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline"/>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 📫 Reach Me
 
